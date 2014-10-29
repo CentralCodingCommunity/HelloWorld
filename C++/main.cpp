@@ -1,6 +1,11 @@
+// Include the iostream
 #include <iostream>
 
+// Declaring namespace std
+using namespace std;
+
 int main() {
-	std::cout << "Hello, World!\n";
+	// Print line
+	cout << "Hello, World!\n";
 	return 0;
 }
